@@ -1,7 +1,2 @@
-console.log(`
-%c███╗   ███╗    ██████╗     ██╗     
-%c████╗ ████║    ██╔══██╗    ██║     
-%c██╔████╔██║    ██████╔╝    ██║     
-%c██║╚██╔╝██║    ██╔══██╗    ██║     
-%c██║ ╚═╝ ██║    ██║  ██║    ███████                                                                           
-`, "color:#22577A", "color:#38A3A5", "color:#57CC99", "color:#80ED99", "color:#99FFED", "color:#FFFFFF")
+
+[codingcoding.tistory.com-1691251084565.log](https://github.com/kamgaa/kamgaa/files/12267631/codingcoding.tistory.com-1691251084565.log)
