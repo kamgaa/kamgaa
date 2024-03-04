@@ -1,4 +1,3 @@
-![image](https://github.com/kamgaa/kamgaa/assets/97331214/c1455406-58c7-43c9-8945-8b95df99fae0)
 <h1 align="center">👋 Hi there!</h1>
 
 <p align="center">
@@ -14,37 +13,32 @@
 
 ---
 
-## 🛠 Tech Stack & 💼 Projects
+<div style="display: flex; flex-direction: column;">
 
-<div align="center">
-  <img src="your-technology-stack-image-url" alt="Technology Stack Image" width="400"/>
-  <img src="your-project-image-url" alt="Project Image" width="400"/>
-</div>
+  <div>
+    <h2>🛠 Tech Stack & 💼 Projects</h2>
+    <h3>🔨 Technologies Used</h3>
+    <ul>
+      <li>Python, JavaScript</li>
+      <li>React, Django</li>
+      <li>MySQL, MongoDB</li>
+      <li>Docker, Git</li>
+    </ul>
+  
+    <h3>🚀 Major Projects</h3>
+    <ul>
+      <li><a href="project-link">Project 1</a> - A brief description of the project</li>
+      <li><a href="project-link">Project 2</a> - A brief description of the project</li>
+    </ul>
+  </div>
 
-<div align="left">
-  <h3>🔨 Technologies Used</h3>
-  <ul>
-    <li>Python, JavaScript</li>
-    <li>React, Django</li>
-    <li>MySQL, MongoDB</li>
-    <li>Docker, Git</li>
-  </ul>
+  <div>
+    <h2>🌱 Currently Learning & 🤝 Contributions</h2>
+    <h3>Currently Learning</h3>
+    <p>I am passionate about learning new technologies, especially in the fields of AI and machine learning.</p>
+  
+    <h3>Community Contributions</h3>
+    <p>I enjoy contributing to open-source projects and sharing knowledge within the community.</p>
+  </div>
 
-  <h3>🚀 Major Projects</h3>
-  <ul>
-    <li><a href="project-link">Project 1</a> - A brief description of the project</li>
-    <li><a href="project-link">Project 2</a> - A brief description of the project</li>
-  </ul>
-</div>
-
----
-
-## 🌱 Currently Learning & 🤝 Contributions
-
-<div align="left">
-  <h3>Currently Learning</h3>
-  <p>I am passionate about learning new technologies, especially in the fields of AI and machine learning.</p>
-
-  <h3>Community Contributions</h3>
-  <p>I enjoy contributing to open-source projects and sharing knowledge within the community.</p>
 </div>
