@@ -9,13 +9,13 @@
 https://github.com/kamgaa/kamgaa/issues/1#issue-2165901753
 
 - Graduate : Department of Mechanical System Design Engineering
-- Now : Post-graduate student in the Department of Mechanical Design and Robotics.
+- Now : Post-graduate student in Department of Mechanical Design and Robotics.
 
 **🔨 Technologies Used**
 
-- Python, JavaScript
-- React, Django
-- MySQL, MongoDB
+- C, C++. C#
+- Python, JavaScript, css (for front-end)
+- ROS/ROS2
 - Docker, Git
 
 ---
@@ -30,4 +30,4 @@ Passionate about leveraging technology and design to bring positive changes to t
 
 **Currently Learning**
 
-I am passionate about learning new technologies, especially in the fields of AI and machine learning.
+- ROS2, Control System(Robust, Adaptive)
